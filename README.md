@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majid001-curious
+- 👋 Hi, I’m Mohammed Abdul Majid
 - 💼IT Recruiter Senior Team Lead
 
 <!---
