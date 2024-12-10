@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majid001-curious
-- 💼IT Recruiter Senior Team Le
+- 💼IT Recruiter Senior Team Lead
 
 <!---
 majid001-curious/majid001-curious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
